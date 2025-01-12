@@ -172,3 +172,4 @@ cython_debug/
 
 models
 spellchecker
+_spacy.ipynb
